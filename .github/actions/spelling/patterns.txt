@@ -1,0 +1,11 @@
+^\@\@ -\d+(?:,\d+|) \+\d+(?:,\d+|) \@\@ .*
+https://[a-z-]+\.githubusercontent\.com/[-a-zA-Z0-9?&=_\/.]*
+http://localhost/retrieve/\d+/\d+/[0-9a-f]{64}
+[" ]-D
+[0-9a-fA-F]{8}-(?:[0-9a-fA-F]{4}-){3}[0-9a-fA-F]{12}
+git cherry-pick [0-9a-f]{40}
+(?:0[Xx]|U\+|#)[a-f0-9A-FGgRr]{2,}[Uu]?[Ll]{0,2}\b
+\b([A-Za-z])\1{3,}\b
+aps-environment
+PubAsympIsolate
+cr\.yp\.to
